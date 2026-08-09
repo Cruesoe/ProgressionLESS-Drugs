@@ -48,7 +48,7 @@
                   <with>PoppyLatex</with>
                 </li>
                 <li>
-                  <replace>VFEC_PlantPoppy</replace>
+                  <replace>VFEC_Plant_Poppy</replace>
                   <with>DankPyon_Plant_Poppy</with>
                 </li>
                 <li>
@@ -64,7 +64,7 @@
           </value>
         </li>
         <li Class="PatchOperationRemove">
-          <xpath>/Defs/ThingDef[defName="VFEC_PlantPoppy"]/plant/sowTags</xpath>
+          <xpath>/Defs/ThingDef[defName="VFEC_Plant_Poppy"]/plant/sowTags</xpath>
         </li>
         <li Class="PatchOperationRemove">
           <xpath>/Defs/ThingDef[defName="PlantPapaver"]/plant/sowTags</xpath>
@@ -84,7 +84,7 @@
                   <with>PoppyLatex</with>
                 </li>
                 <li>
-                  <replace>VFEC_PlantPoppy</replace>
+                  <replace>VFEC_Plant_Poppy</replace>
                   <with>PlantPapaver</with>
                 </li>
               </replacers>
@@ -92,7 +92,7 @@
           </value>
         </li>
         <li Class="PatchOperationRemove">
-          <xpath>/Defs/ThingDef[defName="VFEC_PlantPoppy"]/plant/sowTags</xpath>
+          <xpath>/Defs/ThingDef[defName="VFEC_Plant_Poppy"]/plant/sowTags</xpath>
         </li>
       </operations>
     </nomatch>
