@@ -10,7 +10,7 @@
       <li>AT_AddictionPharmacology</li>
     </prerequisites>
     <researchViewX>11</researchViewX>
-    <researchViewY>0</researchViewY>
+    <researchViewY>5</researchViewY>
     <tab>Main</tab>
   </ResearchProjectDef>
   <ResearchProjectDef>
