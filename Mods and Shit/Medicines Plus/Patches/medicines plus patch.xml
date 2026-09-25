@@ -276,6 +276,18 @@
 </Operation>
 
 <Operation Class="PatchOperationConditional">
+  <xpath>/Defs/RecipeDef[defName="MakeBulkThornWeedNeedle"]/researchPrerequisite</xpath>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkThornWeedNeedle"]/researchPrerequisite</xpath>
+    <value><researchPrerequisite>Ferny_ThornweedInfusion</researchPrerequisite></value>
+  </match>
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkThornWeedNeedle"]</xpath>
+    <value><researchPrerequisite>Ferny_ThornweedInfusion</researchPrerequisite></value>
+  </nomatch>
+</Operation>
+
+<Operation Class="PatchOperationConditional">
   <xpath>/Defs/RecipeDef[defName="MakePeyote"]/researchPrerequisite</xpath>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/RecipeDef[defName="MakePeyote"]/researchPrerequisite</xpath>
@@ -288,6 +300,18 @@
 </Operation>
 
 <Operation Class="PatchOperationConditional">
+  <xpath>/Defs/RecipeDef[defName="MakeBulkPeyote"]/researchPrerequisite</xpath>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkPeyote"]/researchPrerequisite</xpath>
+    <value><researchPrerequisite>Ferny_PeyoteInfusion</researchPrerequisite></value>
+  </match>
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkPeyote"]</xpath>
+    <value><researchPrerequisite>Ferny_PeyoteInfusion</researchPrerequisite></value>
+  </nomatch>
+</Operation>
+
+<Operation Class="PatchOperationConditional">
   <xpath>/Defs/RecipeDef[defName="MakePoppyLatex"]/researchPrerequisite</xpath>
   <match Class="PatchOperationReplace">
     <xpath>/Defs/RecipeDef[defName="MakePoppyLatex"]/researchPrerequisite</xpath>
@@ -295,6 +319,18 @@
   </match>
   <nomatch Class="PatchOperationAdd">
     <xpath>/Defs/RecipeDef[defName="MakePoppyLatex"]</xpath>
+    <value><researchPrerequisite>Ferny_OpiumInfusion</researchPrerequisite></value>
+  </nomatch>
+</Operation>
+
+<Operation Class="PatchOperationConditional">
+  <xpath>/Defs/RecipeDef[defName="MakeBulkPoppyLatex"]/researchPrerequisite</xpath>
+  <match Class="PatchOperationReplace">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkPoppyLatex"]/researchPrerequisite</xpath>
+    <value><researchPrerequisite>Ferny_OpiumInfusion</researchPrerequisite></value>
+  </match>
+  <nomatch Class="PatchOperationAdd">
+    <xpath>/Defs/RecipeDef[defName="MakeBulkPoppyLatex"]</xpath>
     <value><researchPrerequisite>Ferny_OpiumInfusion</researchPrerequisite></value>
   </nomatch>
 </Operation>

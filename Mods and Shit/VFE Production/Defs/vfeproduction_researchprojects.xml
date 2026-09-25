@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>Ferny_ElectricDrugLab</defName>
+		<label>Electric drug lab</label>
+		<description>Build an advanced powered drug lab equipped with containers, heaters, and measurement devices for producing drugs more efficiently.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>25.00</researchViewX>
+		<researchViewY>4.00</researchViewY>
+		<prerequisites>
+			<li>DrugProduction</li>
+			<li>Electricity</li>
+		</prerequisites>
+	</ResearchProjectDef>
+
+</Defs>
