@@ -7,7 +7,8 @@
 			<xpath>/Defs/ThingDef[defName="VFE_TableDrugLabElectric"]/researchPrerequisites</xpath>
 			<value>
 				<researchPrerequisites>
-					<li>Ferny_ElectricDrugLab</li>
+					<li>Electricity</li>
+					<li>DrugProduction</li>
 				</researchPrerequisites>
 			</value>
 		</match>
@@ -15,7 +16,8 @@
 			<xpath>/Defs/ThingDef[defName="VFE_TableDrugLabElectric"]</xpath>
 			<value>
 				<researchPrerequisites>
-					<li>Ferny_ElectricDrugLab</li>
+					<li>Electricity</li>
+					<li>DrugProduction</li>
 				</researchPrerequisites>
 			</value>
 		</nomatch>

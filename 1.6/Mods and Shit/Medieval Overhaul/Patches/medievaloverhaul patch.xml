@@ -6,13 +6,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Miracle"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_ApothecarysMiracle</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Miracle"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_ApothecarysMiracle</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -26,7 +26,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_ApothecarysMiracle</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -39,13 +39,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_BattleElixir"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_BattleElixir</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_BattleElixir"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_BattleElixir</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -59,7 +59,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_BattleElixir</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -72,13 +72,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_HappyPowder"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_HappyPowder</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_HappyPowder"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_HappyPowder</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -92,7 +92,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_HappyPowder</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -105,13 +105,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Luhix"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Luhix</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Luhix"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Luhix</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -125,7 +125,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_Luhix</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -138,13 +138,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_VigorPill"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_VigorPill</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_VigorPill"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_VigorPill</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -158,7 +158,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_VigorPill</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -171,13 +171,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Paregoric"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Paregoric</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Paregoric"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Paregoric</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -191,7 +191,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_Paregoric</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -204,13 +204,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_KnowledgePotion"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_PotionOfKnowledge</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_KnowledgePotion"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_PotionOfKnowledge</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -224,7 +224,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_PotionOfKnowledge</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>
@@ -297,13 +297,13 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Stardust"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Stardust</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</match>
 		<nomatch Class="PatchOperationAdd">
 			<xpath>/Defs/ThingDef[defName="DankPyon_Stardust"]/recipeMaker</xpath>
 			<value>
-				<researchPrerequisite>Ferny_Stardust</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 			</value>
 		</nomatch>
 	</Operation>
@@ -317,7 +317,7 @@
 				<effectWorking>Cook</effectWorking>
 				<soundWorking>Recipe_CookMeal</soundWorking>
 				<bulkRecipeCount>3</bulkRecipeCount>
-				<researchPrerequisite>Ferny_Stardust</researchPrerequisite>
+				<researchPrerequisite>Ferny_HerbalExtract</researchPrerequisite>
 				<recipeUsers>
 					<li>DankPyon_AlchemyBench</li>
 				</recipeUsers>

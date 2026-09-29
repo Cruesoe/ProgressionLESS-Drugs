@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
 	<ResearchProjectDef>
 		<defName>Ferny_Flake</defName>
-		<label>Flake</label>
-		<description>Manufacture a flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive.</description>
+		<label>Hard drugs</label>
+		<description>Manufacture flake and other cheap, powerful and exceptionally addictive drugs.</description>
 		<baseCost>300</baseCost>
 		<techLevel>Industrial</techLevel>
 		<researchViewX>24.00</researchViewX>
@@ -13,12 +12,10 @@
 			<li>DrugProduction</li>
 		</prerequisites>
 	</ResearchProjectDef>
-
-
 	<ResearchProjectDef>
 		<defName>Ferny_SmokeleafJoint</defName>
-		<label>Smokeleaf joint</label>
-		<description>Produce smokeleaf leaves prepared in small rolls for smoking.</description>
+		<label>Smokeables</label>
+		<description>Prepare smokeleaf joints, chewing smokeleaf and other smokeables.</description>
 		<baseCost>150</baseCost>
 		<techLevel>Neolithic</techLevel>
 		<researchViewX>23.00</researchViewX>
@@ -27,5 +24,4 @@
 			<li MayRequire="oskarpotocki.vfe.tribals">VFET_Agriculture</li>
 		</prerequisites>
 	</ResearchProjectDef>
-
 </Defs>

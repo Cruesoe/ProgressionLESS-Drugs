@@ -41,91 +41,91 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_ImmunizationDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_ImmunizationDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_StrengthDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_StrengthDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_EfficiencyDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_EfficiencyDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_PainkillerDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_PainkillerDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_TorturerDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_TorturerDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_FocusDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_FocusDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_FertilityDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_FertilityDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_InspirationDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_InspirationDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_StoneskinDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_StoneskinDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_AmnesiaDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_AmnesiaDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_ComaDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_ComaDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_PoisonDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_PoisonDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="VFEM2_AntitoxDraught"]/recipeMaker/researchPrerequisite</xpath>
 		<value>
-			<researchPrerequisite>Ferny_AntitoxDraught</researchPrerequisite>
+			<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 		</value>
 	</Operation>
 
@@ -134,7 +134,7 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="VFEM2_ClarityDraught"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_ClarityDraught</researchPrerequisite>
+				<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 			</value>
 		</match>
 	</Operation>
@@ -144,7 +144,7 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="VFEM2_HemogenDraught"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_HemogenDraught</researchPrerequisite>
+				<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 			</value>
 		</match>
 	</Operation>
@@ -154,156 +154,10 @@
 		<match Class="PatchOperationReplace">
 			<xpath>/Defs/ThingDef[defName="VFEM2_RoyalJellyDraught"]/recipeMaker/researchPrerequisite</xpath>
 			<value>
-				<researchPrerequisite>Ferny_RoyalJellyDraught</researchPrerequisite>
+				<researchPrerequisite>VFEM2_Alchemy</researchPrerequisite>
 			</value>
 		</match>
 	</Operation>
 
-	<Operation Class="PatchOperationFindMod">
-		<mods>
-			<li>Medieval Overhaul</li>
-		</mods>
-		<match Class="PatchOperationSequence">
-			<operations>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_ImmunizationDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_StrengthDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_EfficiencyDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_PainkillerDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_TorturerDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_FocusDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_FertilityDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_InspirationDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_StoneskinDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_AmnesiaDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_ComaDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_PoisonDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_AntitoxDraught"]/prerequisites</xpath>
-				<value>
-					<prerequisites>
-						<li>DankPyon_Alchemy</li>
-					</prerequisites>
-				</value>
-			</li>
-			<li Class="PatchOperationConditional">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_ClarityDraught"]/prerequisites</xpath>
-				<match Class="PatchOperationReplace">
-					<xpath>/Defs/ResearchProjectDef[defName="Ferny_ClarityDraught"]/prerequisites</xpath>
-					<value>
-						<prerequisites>
-							<li>DankPyon_Alchemy</li>
-						</prerequisites>
-					</value>
-				</match>
-			</li>
-			<li Class="PatchOperationConditional">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_HemogenDraught"]/prerequisites</xpath>
-				<match Class="PatchOperationReplace">
-					<xpath>/Defs/ResearchProjectDef[defName="Ferny_HemogenDraught"]/prerequisites</xpath>
-					<value>
-						<prerequisites>
-							<li>DankPyon_Alchemy</li>
-						</prerequisites>
-					</value>
-				</match>
-			</li>
-			<li Class="PatchOperationConditional">
-				<xpath>/Defs/ResearchProjectDef[defName="Ferny_RoyalJellyDraught"]/prerequisites</xpath>
-				<match Class="PatchOperationReplace">
-					<xpath>/Defs/ResearchProjectDef[defName="Ferny_RoyalJellyDraught"]/prerequisites</xpath>
-					<value>
-						<prerequisites>
-							<li>DankPyon_Alchemy</li>
-						</prerequisites>
-					</value>
-				</match>
-			</li>
-			</operations>
-		</match>
-	</Operation>
 
 </Patch>
