@@ -1,23 +1,24 @@
 <loadFolders>
   <v1.6>
     <li>/</li>
+    <li>1.6</li>
 
     <!-- General -->
-    <li IfModActive="vanillaracesexpanded.genie">Mods and Shit/VRE Genie</li>
-    <li IfModActive="vanillaexpanded.vbrewe">Mods and Shit/VE Brewing</li>
-    <li IfModActive="DirtbagActual.PackYourCraw">Mods and Shit/Pack Your Craw</li>
-    <li IfModActive="VanillaExpanded.VFEProduction">Mods and Shit/VFE Production</li>
-    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods and Shit/VFE Medieval 2</li>
-    <li IfModActive="veterano.mythicages.megafaunabestiary">Mods and Shit/Mythic Ages Megafauna Bestiary</li>
-    <li IfModActive="Van.Beasts">Mods and Shit/Dark Ages Beasts and Monsters</li>
-    <li IfModActive="VanillaExpanded.VGeneticsE">Mods and Shit/Vanilla Genetics Expanded</li>
-    <li IfModActive="det.sbdelights">Mods and Shit/Stoneborn Delights</li>
-    <li IfModActive="VexedTrees980.RimGnoblinsBiotech">Mods and Shit/RimGnoblins</li>
-    <li IfModActive="Matsay.ForsakenFaction">Mods and Shit/Forsaken Faction</li>
-    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
-    <li IfModActive="Papito.MedicinesPlus.AT">Mods and Shit/Medicines Plus</li>
-    <li IfModActive="onofre150.me.vaccines">Mods and Shit/Medical Expansion Vaccines</li>
-    <li IfModActive="onofre150.me.addictions">Mods and Shit/Medical Expansion Addiction Treatment</li>
+    <li IfModActive="vanillaracesexpanded.genie">1.6/Mods and Shit/VRE Genie</li>
+    <li IfModActive="vanillaexpanded.vbrewe">1.6/Mods and Shit/VE Brewing</li>
+    <li IfModActive="DirtbagActual.PackYourCraw">1.6/Mods and Shit/Pack Your Craw</li>
+    <li IfModActive="VanillaExpanded.VFEProduction">1.6/Mods and Shit/VFE Production</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">1.6/Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="veterano.mythicages.megafaunabestiary">1.6/Mods and Shit/Mythic Ages Megafauna Bestiary</li>
+    <li IfModActive="Van.Beasts">1.6/Mods and Shit/Dark Ages Beasts and Monsters</li>
+    <li IfModActive="VanillaExpanded.VGeneticsE">1.6/Mods and Shit/Vanilla Genetics Expanded</li>
+    <li IfModActive="det.sbdelights">1.6/Mods and Shit/Stoneborn Delights</li>
+    <li IfModActive="VexedTrees980.RimGnoblinsBiotech">1.6/Mods and Shit/RimGnoblins</li>
+    <li IfModActive="Matsay.ForsakenFaction">1.6/Mods and Shit/Forsaken Faction</li>
+    <li IfModActive="dankpyon.medieval.overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="Papito.MedicinesPlus.AT">1.6/Mods and Shit/Medicines Plus</li>
+    <li IfModActive="onofre150.me.vaccines">1.6/Mods and Shit/Medical Expansion Vaccines</li>
+    <li IfModActive="onofre150.me.addictions">1.6/Mods and Shit/Medical Expansion Addiction Treatment</li>
 
 
   </v1.6>

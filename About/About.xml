@@ -1,38 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Progression: Drugs</name>
-	<author>ferny</author>
-	<packageId>ferny.progressiondrugs</packageId>
-	<supportedVersions>
-		<li>1.6</li>
-	</supportedVersions>
-	<description>Research and overlap overhaul for drugs.</description>
-	<loadAfter>
-		<li>Ludeon.Rimworld</li>
-		<li>Ludeon.Rimworld.Royalty</li>
-		<li>Ludeon.Rimworld.Ideology</li>
-		<li>Ludeon.Rimworld.Biotech</li>
-		<li>Ludeon.Rimworld.Anomaly</li>
-		<li>Ludeon.Rimworld.Odyssey</li>
-		<li>vanillaracesexpanded.genie</li>
-		<li>veterano.mythicages.megafaunabestiary</li>
-		<li>OskarPotocki.VFE.Medieval2</li>
-		<li>dankpyon.medieval.overhaul</li>
-		<li>Van.Beasts</li>
-		<li>VanillaExpanded.VGeneticsE</li>
-		<li>det.sbdelights</li>
-		<li>VexedTrees980.RimGnoblinsBiotech</li>
-		<li>Matsay.ForsakenFaction</li>
-		<li>OskarPotocki.VFE.Tribals</li>
-		<li>Papito.MedicinesPlus.AT</li>
-		<li>onofre150.me.vaccines</li>
-		<li>onofre150.me.addictions</li>
-	</loadAfter>
-	<modDependencies>
-		<li>
-			<packageId>ferny.ReplaceLib</packageId>
-			<displayName>ReplaceLib</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3417393194</steamWorkshopUrl>
-		</li>
-	</modDependencies>
+  <name>ProgressionLESS: Drugs</name>
+  <author>Cruesoe</author>
+  <packageId>cruesoe.progressionlessdrugs</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Research and overlap overhaul for drugs.
+
+Forked from Progression: Drugs by ferny.
+Huge thanks to ferny for the original mod and all the Progression work this builds on. Replaces the original; do not use both.
+
+For a really good modpack, check out The Progression Modpack on the Steam Workshop.</description>
+  <modDependencies>
+    <li>
+      <packageId>ferny.ReplaceLib</packageId>
+      <displayName>ReplaceLib</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3417393194</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <incompatibleWith>
+    <li>ferny.progressiondrugs</li>
+  </incompatibleWith>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>Ludeon.RimWorld.Anomaly</li>
+    <li>Ludeon.RimWorld.Odyssey</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>veterano.mythicages.megafaunabestiary</li>
+    <li>OskarPotocki.VFE.Medieval2</li>
+    <li>dankpyon.medieval.overhaul</li>
+    <li>Van.Beasts</li>
+    <li>VanillaExpanded.VGeneticsE</li>
+    <li>det.sbdelights</li>
+    <li>VexedTrees980.RimGnoblinsBiotech</li>
+    <li>Matsay.ForsakenFaction</li>
+    <li>OskarPotocki.VFE.Tribals</li>
+    <li>Papito.MedicinesPlus.AT</li>
+    <li>onofre150.me.vaccines</li>
+    <li>onofre150.me.addictions</li>
+  </loadAfter>
 </ModMetaData>
