@@ -6,8 +6,8 @@
 		<description>Brew herbal extracts, elixirs, powders and draughts through alchemy.</description>
 		<baseCost>500</baseCost>
 		<techLevel>Medieval</techLevel>
-		<researchViewX>28.00</researchViewX>
-		<researchViewY>15.00</researchViewY>
+		<researchViewX>2.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<prerequisites>
 			<li MayRequire="dankpyon.medieval.overhaul">DankPyon_Alchemy</li>
 		</prerequisites>
@@ -18,7 +18,7 @@
 		<description>Refine sivadust ivory and brew remedies and scents from the parts of great beasts.</description>
 		<baseCost>500</baseCost>
 		<techLevel>Neolithic</techLevel>
-		<researchViewX>27.00</researchViewX>
-		<researchViewY>3.00</researchViewY>
+		<researchViewX>1.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 	</ResearchProjectDef>
 </Defs>

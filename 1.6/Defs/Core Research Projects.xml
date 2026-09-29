@@ -6,8 +6,8 @@
 		<description>Manufacture flake and other cheap, powerful and exceptionally addictive drugs.</description>
 		<baseCost>300</baseCost>
 		<techLevel>Industrial</techLevel>
-		<researchViewX>24.00</researchViewX>
-		<researchViewY>3.00</researchViewY>
+		<researchViewX>3.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
@@ -18,8 +18,8 @@
 		<description>Prepare smokeleaf joints, chewing smokeleaf and other smokeables.</description>
 		<baseCost>150</baseCost>
 		<techLevel>Neolithic</techLevel>
-		<researchViewX>23.00</researchViewX>
-		<researchViewY>3.00</researchViewY>
+		<researchViewX>0.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<prerequisites>
 			<li MayRequire="oskarpotocki.vfe.tribals">VFET_Agriculture</li>
 		</prerequisites>

@@ -9,8 +9,8 @@
 		<prerequisites>
 			<li>AT_AddictionPharmacology</li>
 		</prerequisites>
-		<researchViewX>11</researchViewX>
-		<researchViewY>2</researchViewY>
+		<researchViewX>12.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<tab>Main</tab>
 	</ResearchProjectDef>
 </Defs>

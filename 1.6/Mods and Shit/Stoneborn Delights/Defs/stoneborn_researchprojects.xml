@@ -6,8 +6,8 @@
 		<description>Make beard wax, miner's delight and redspice.</description>
 		<baseCost>500</baseCost>
 		<techLevel>Industrial</techLevel>
-		<researchViewX>26.00</researchViewX>
-		<researchViewY>9.00</researchViewY>
+		<researchViewX>5.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
