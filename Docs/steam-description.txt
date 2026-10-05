@@ -1,0 +1,36 @@
+[h1]ProgressionLESS: Drugs[/h1]
+[b]All the Progression goodness, less research.[/b]
+
+[i]This is a fork of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3763005969]Progression: Drugs[/url] by ferny. Huge thanks to ferny for the original mod and all the Progression work this builds on. For a really good modpack, check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3521297585]The Progression Modpack[/url].[/i]
+
+[h2]What it does[/h2]
+[list]
+[*]Overhauls drug research and removes overlap between drug mods, so each drug unlocks in its proper tech era.
+[*]Covers everything from smokeleaf joints and beast remedies to alchemy, hard drugs, medicines, vaccines and addiction treatment.
+[/list]
+
+[h2]Why "LESS"?[/h2]
+Progression: Drugs adds up to [b]73 research projects[/b] depending on your mods. This fork groups them into [b]at most 13[/b] themed projects:
+[list]
+[*][b]Neolithic:[/b] Smokeables, Beast remedies
+[*][b]Medieval:[/b] Alchemical remedies
+[*][b]Industrial:[/b] Hard drugs, Tobacco, Dwarven goods, Herbal infusions, Medicines, Antibiotics, Vaccines, Addiction treatment
+[*][b]Spacer:[/b] Refined drugs, Vitamin F
+[/list]
+Vanilla Factions Expanded - Medieval 2's draughts unlock with that mod's own Alchemy research, and the electric drug lab with Electricity and Drug production.
+
+Everything stays in the same era and at the same stage within it, and still needs the other research it did before. The research is laid out neatly with no overlaps.
+
+[h2]Compatibility[/h2]
+Keeps all of the original's mod support:
+[list]
+[*]Medieval Overhaul and VFE Medieval 2
+[*]Medicines Plus
+[*]Medical Expansion: Vaccines and Addiction Treatment
+[*]Mythic Ages Megafauna Bestiary and Dark Ages Beasts and Monsters
+[*]Stoneborn Delights and RimGnoblins
+[*]Vanilla Brewing Expanded, VFE Production, Vanilla Genetics Expanded and VRE Genie
+[*]Pack Your Craw and Forsaken Faction
+[/list]
+
+[b]Replaces the original. Don't use both.[/b]
