@@ -36,7 +36,7 @@
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
-		<researchViewY>2.10</researchViewY>
-		<researchViewX>2.00</researchViewX>
+		<researchViewY>8</researchViewY>
+		<researchViewX>2</researchViewX>
 	</ResearchProjectDef>
 </Defs>

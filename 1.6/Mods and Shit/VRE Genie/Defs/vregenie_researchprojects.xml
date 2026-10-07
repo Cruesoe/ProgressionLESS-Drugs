@@ -7,8 +7,8 @@
 		<description>Develop a method for producing antibiotics that boost the immune system after infections take hold.</description>
 		<baseCost>2000</baseCost>
 		<techLevel>Industrial</techLevel>
-		<researchViewX>26.00</researchViewX>
-		<researchViewY>0.00</researchViewY>
+		<researchViewX>6.00</researchViewX>
+		<researchViewY>12.40</researchViewY>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>
