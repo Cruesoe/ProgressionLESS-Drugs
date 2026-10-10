@@ -6,8 +6,8 @@
 		<description>Roll cigarettes and cigars.</description>
 		<baseCost>400</baseCost>
 		<techLevel>Industrial</techLevel>
-		<researchViewX>4.00</researchViewX>
-		<researchViewY>12.40</researchViewY>
+		<researchViewX>9.00</researchViewX>
+		<researchViewY>6.20</researchViewY>
 		<prerequisites>
 			<li>DrugProduction</li>
 		</prerequisites>

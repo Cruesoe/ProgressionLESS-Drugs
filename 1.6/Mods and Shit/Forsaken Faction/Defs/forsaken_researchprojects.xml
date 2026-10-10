@@ -8,7 +8,7 @@
 		<baseCost>500</baseCost>
 		<techLevel>Spacer</techLevel>
 		<researchViewX>13.00</researchViewX>
-		<researchViewY>12.40</researchViewY>
+		<researchViewY>6.20</researchViewY>
 		<prerequisites>
 			<li>DrugProduction</li>
 			<li>FOF_Plants</li>

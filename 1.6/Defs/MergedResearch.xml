@@ -7,7 +7,7 @@
 		<baseCost>500</baseCost>
 		<techLevel>Medieval</techLevel>
 		<researchViewX>2.00</researchViewX>
-		<researchViewY>12.40</researchViewY>
+		<researchViewY>6.20</researchViewY>
 		<prerequisites>
 			<li MayRequire="dankpyon.medieval.overhaul">DankPyon_Alchemy</li>
 		</prerequisites>
@@ -18,7 +18,7 @@
 		<description>Refine sivadust ivory and brew remedies and scents from the parts of great beasts.</description>
 		<baseCost>500</baseCost>
 		<techLevel>Neolithic</techLevel>
-		<researchViewX>1.00</researchViewX>
-		<researchViewY>12.40</researchViewY>
+		<researchViewX>8.00</researchViewX>
+		<researchViewY>6.20</researchViewY>
 	</ResearchProjectDef>
 </Defs>
