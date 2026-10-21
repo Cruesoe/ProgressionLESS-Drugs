@@ -2,27 +2,6 @@
 <Patch>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/Defs/ResearchProjectDef[defName="VFEM2_Alchemy"]/label</xpath>
-		<value>
-			<label>Healing draught</label>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationReplace">
-		<xpath>/Defs/ResearchProjectDef[defName="VFEM2_Alchemy"]/description</xpath>
-		<value>
-			<description>Produce a vibrant red liquid. When the user drinks it, it greatly enhances their injury healing rate, speeding up the process of wound closure and tissue repair. This potion works by boosting the body’s natural healing mechanisms, making recovery from injuries much quicker.</description>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationReplace">
-		<xpath>/Defs/ResearchProjectDef[defName="VFEM2_Alchemy"]/baseCost</xpath>
-		<value>
-			<baseCost>500</baseCost>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ResearchProjectDef[defName="VFEM2_Alchemy"]/prerequisites</xpath>
 		<value>
 			<prerequisites>
